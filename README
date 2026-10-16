@@ -1,3 +1,5 @@
+PERSONAL FORK — NOT INTENDED FOR PUBLIC CONSUMPTION. This is a personal working copy of plashchynski/viewssld (https://github.com/plashchynski/viewssld), kept for experiments. It is unmaintained and unsupported, may diverge from upstream or be rewritten at any time, and nothing here is released for others to use. Use the upstream project instead.
+
 viewssld is an open source SSL decryption daemon for Snort and other network Intrusion Detection System (IDS).
 
 == Requirements
